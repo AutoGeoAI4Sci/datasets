@@ -1,4 +1,4 @@
-# BRIGHT Dataset Paper - Abstract and Introduction Analysis
+# BRIGHT Damage Assessment Dataset Paper - Abstract and Introduction Analysis
 
 ## Purpose of Paper
 - Introduces BRIGHT dataset for building damage detection
