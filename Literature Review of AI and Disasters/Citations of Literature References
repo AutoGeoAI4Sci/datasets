@@ -1,27 +1,32 @@
 # AI & Disaster Management – Literature References
 
-## Social Media & Multimodal Disaster Analysis
-
-Alharm, A. O., & Naim, S. (2024). *Enhancing Natural Disaster Response: A Deep Learning Approach to Disaster Sentiment Analysis using BERT and LSTM.* SSRN Electronic Journal.
-
-Alam, F., Sajjad, H., Imran, M., & Ofli, F. (2021). *CrisisBench: Benchmarking Crisis-Related Social Media Datasets for Humanitarian Information Processing.* Proceedings of the International AAAI Conference on Web and Social Media.
-
-Alam, F., Ofli, F., & Imran, M. (2018). *CrisisMMD: Multimodal Twitter Datasets from Natural Disasters.* Proceedings of the International AAAI Conference on Web and Social Media.
-
-Akinboyewa, T., Ning, H., Lessani, M. N., & Li, Z. (2024). *Automated Floodwater Depth Estimation Using Large Multimodal Model for Rapid Flood Mapping.* Computational Urban Science.
-
-Adesokan, A., Madria, S., & Nguyen, L. (2023). *TweetACE: A Fine-Grained Classification of Disaster Tweets Using Transformer Model.* IEEE Applied Imagery Pattern Recognition Workshop.
+## Literature List (Alphabetical)
 
 Abavisani, M., Wu, L., Hu, S., Tetreault, J., & Jaimes, A. (2020). *Multimodal Categorization of Crisis Events in Social Media.* arXiv preprint arXiv:2004.04917.
 
-Andreadis, S., Bozas, A., Gialampoukidis, I., Moumtzidou, A., Fiorin, R., Lombardo, F., et al. (2022). *DisasterMM: Multimedia Analysis of Disaster-Related Social Media Data Task at MediaEval 2022.* CEUR Workshop Proceedings.
+Ahmad, K., Iqbal, M., & Ullah, A. (2021). *A Comparative Study of Deep Learning Methods for the Detection and Classification of Natural Disasters from Social Media.* Applied Sciences, 11(2), 725.
 
-Anderson, B. (2015). *Governing Emergencies: The Politics of Delay and the Logic of Response.* Transactions of the Institute of British Geographers, 40(1), 14-26.
+Akinboyewa, T., Ning, H., Lessani, M. N., & Li, Z. (2024). *Automated Floodwater Depth Estimation Using Large Multimodal Model for Rapid Flood Mapping.* Computational Urban Science.
+
+Alam, F., Ofli, F., & Imran, M. (2018). *A Comparison Study for Disaster Tweet Classification Using Deep Learning Models.* Proceedings of the International AAAI Conference on Web and Social Media.
+
+Alam, F., Sajjad, H., Imran, M., & Ofli, F. (2021). *CrisisBench: Benchmarking Crisis-Related Social Media Datasets for Humanitarian Information Processing.* Proceedings of the International AAAI Conference on Web and Social Media.
+
+Alharm, A. O., & Naim, S. (2024). *Enhancing Natural Disaster Response: A Deep Learning Approach to Disaster Sentiment Analysis using BERT and LSTM.* SSRN Electronic Journal.
 
 Alsan, H. F., & Arsan, T. (2023). *Dynamic Task and Weight Prioritization Curriculum Learning for Multimodal Imagery.* arXiv preprint arXiv:2310.19109.
 
----
+Anderson, B. (2015). *Governing Emergencies: The Politics of Delay and the Logic of Response.* Transactions of the Institute of British Geographers, 40(1), 14–26.
 
-**Notes**
-- Papers collected during Fall 2025 semester.
-- This list will continue to expand as literature review progresses.
+Andreadis, S., Bozas, A., Gialampoukidis, I., Moumtzidou, A., Fiorin, R., Lombardo, F., et al. (2022). *DisasterMM: Multimedia Analysis of Disaster-Related Social Media Data Task at MediaEval 2022.* CEUR Workshop Proceedings.
+
+Madichetty, S., & Sridevi, M. (2021). *A Neural-Based Approach for Detecting the Situational Information from Twitter During Disaster.* IEEE Transactions on Computational Social Systems, 8(4), 870–882.
+
+Mehmood, A., Zamir, M. T., Ayub, M. A., Ahmad, N., & Ahmad, K. (2024). *A Named Entity Recognition and Topic Modeling-Based Solution for Locating and Better Assessment of Natural Disasters in Social Media.* arXiv preprint arXiv:2405.00903.
+
+Wald, D. J., Quitoriano, V., Heaton, T. H., & Kanamori, H. (1999). *“Did You Feel It?” Intensity Data: A Surprisingly Good Measure of Earthquake Ground Motion.* Seismological Research Letters, 70(6), 680–697.
+
+Xia, Y., Huang, Y., Qiu, Q., Zhang, X., Miao, L., & Chen, Y. (2024). *A Question and Answering Service of Typhoon Disasters Based on the T5 Large Language Model.* ISPRS International Journal of Geo-Information, 13(5), 165.
+
+Zhang, M., Huang, Q., & Liu, H. (2022). *A Multimodal Data Analysis Approach to Social Media during Natural Disasters.* Sustainability, 14(9), 5536.
+
