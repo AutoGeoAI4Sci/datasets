@@ -2,10 +2,15 @@
 
 Disaster AI & Social Media Research
 
-    1   [2020 arXiv] Multimodal Categorization of Crisis Events in Social Media  
-        Abavisani, Wu, Hu, Tetreault, Jaimes  
-        [paper]  
-        Keywords: Multimodal Learning, Social Media, Crisis Detection, Disaster NLP
+1. **[2026 Nature] Artificial intelligence tools expand scientists’ impact but contract science’s focus**  
+   Qianyue Hao, Fengli Xu, Yong Li, James A. Evans  
+   [[paper]](https://www.nature.com/articles/s41586-025-09922-y)  
+   *Keywords:* AI for Science, Science of Science, Research Productivity, Topic Convergence, Scientific Diversity
+    
+   **[2020 arXiv] Multimodal Categorization of Crisis Events in Social Media**  
+   Abavisani, Wu, Hu, Tetreault, Jaimes  
+   [paper]]()
+   *Keywords:*  Multimodal Learning, Social Media, Crisis Detection, Disaster NLP
 
     2   [2021 Applied Sciences] A Comparative Study of Deep Learning Methods for the Detection and Classification of Natural Disasters from Social Media  
         Ahmad, Iqbal, Ullah  
